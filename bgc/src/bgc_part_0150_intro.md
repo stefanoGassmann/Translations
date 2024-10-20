@@ -20,7 +20,7 @@ Pero, en estos tiempos modernos, los lenguajes de la generación actual, ofrecen
 
 Entonces, ¿por qué lo usaríamos hoy en día?
 
-* Como herramienta de aprendizage: C no es solo una pieza venerable de la
+* Como herramienta de aprendizaje: C no es solo una pieza venerable de la
   historia de la informática, está conectado a [flw[nivel de hardware|Bare_machine]] de una 
   manera en la que los lenguajes actuales no lo están. Cuando aprendes C, entiendes
   cómo el software interactúa con la memoria de la computadora a bajo nivel.
